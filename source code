@@ -528,7 +528,7 @@ InfoTab:CreateSection("Credits")
 
 InfoTab:CreateParagraph({
     Title   = "Original Script",
-    Content = "Made by WoXo",
+    Content = "Made by RscriptsX",
 })
 
 InfoTab:CreateParagraph({
