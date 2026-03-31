@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RscriptsX/UMT-Ultimate-Mining-Tyccon-/refs/heads/main/source%20code"))()
